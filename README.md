@@ -1,6 +1,11 @@
 
 EERakendus 
 
+<<<<<<< HEAD
+=======
+
+ EERakendus 
+>>>>>>> e37a22d... Readme update
 Frontend - ReactJS, axios, AntDesign
 Backend - JavaEE GlassFish 5
 
