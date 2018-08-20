@@ -3,6 +3,12 @@ EERakendus
 Frontend - ReactJS, axios, AntDesign
 
 Backend - JavaEE GlassFish 5
+------------------------------------
+
+Esilehel saab otsida kasutajaid. Valikule vajutades minnakse valitud kasutaja lehele ja saab andmeid muuta.
+Esilehelt saab minna ka formile kust saab lisada uusi kasutajaid.
+
+Kasutajaid hoitakse massiivis serveri poolel. Autocomplete ja formi valideerimine on tehtud kasutades Ant Design'i.
 
 -----------------------------
 
