@@ -1,7 +1,7 @@
 
 EERakendus 
 
-Frontend - ReactJS, axios, AntDesign
+Frontend - ReactJS, axios, AntDesign 
 Backend - JavaEE GlassFish 5
 
 -----------------------------
